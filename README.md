@@ -6,9 +6,14 @@ Mainly collected from older projects, and needs massive review.
 
 ## AST
 
+### JS
 - <http://www.graspjs.com> - heavy usage for QA checks
 - <https://github.com/tweakjs/ast-tree> - TODO: review
+- <https://github.com/estools/estraverse> see also other modules used by 'plato'
 
+
+### CSS
+- <https://github.com/stoyan/gonzales-ast>
 
 ## Compatibility Matrixes
 
@@ -20,6 +25,10 @@ Mainly collected from older projects, and needs massive review.
 - <http://www.quirksmode.org/compatibility.html>
 - <http://modernizr.com/>
 
+
+## ES5, ES6
+
+- <https://github.com/medikoo/es5-ext>
 
 ## Security
 
