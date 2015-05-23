@@ -25,6 +25,7 @@ Mainly collected from older projects, and needs massive review.
 - <http://www.quirksmode.org/compatibility.html>
 - <http://modernizr.com/>
 
+- [X-Frame-Options compatibility test](http://erlend.oftedal.no/blog/tools/xframeoptions/)
 
 # ES5, ES6
 
@@ -52,6 +53,11 @@ Mainly collected from older projects, and needs massive review.
 - Content Security Policy <https://developer.mozilla.org/en-US/docs/Web/Security/CSP/Introducing_Content_Security_Policy>
 
 - <https://blog.mozilla.org/javascript/2015/02/26/the-path-to-parallel-javascript/>
+
+## Security Headers
+
+- Guidelines for Setting Security Headers <https://www.veracode.com/blog/2014/03/guidelines-for-setting-security-headers>
+- List of useful HTTP headers <https://www.owasp.org/index.php/List_of_useful_HTTP_headers>
 
 ## Attacks and Vulns
 
