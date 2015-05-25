@@ -31,14 +31,21 @@ Mainly collected from older projects, and needs massive review.
 
 - <https://github.com/medikoo/es5-ext>
 - JavaScript and the living ECMAScript Standard <http://webreflection.blogspot.de/2015/01/javascript-and-living-ecmascript.html>
-
+- ES6 In Depth Articles <https://hacks.mozilla.org/category/es6-in-depth/>
 
 # Progressive Enhancement
 
 - [The JavaScript-Dependency Backlash: Myth-Busting Progressive Enhancement](http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/)
 - [progressive-reduction](http://www.dtelepathy.com/blog/design/progressive-reduction-evolving-the-experience-for-your-most-frequent-users)
 
+# Charting
+
+- <http://www.jsgraphs.com/>
+
 # Performance 
+
+- <http://www.stevesouders.com/blog/>
+
 
 # Security
 
