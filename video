@@ -3,8 +3,6 @@
 
 My sample mission is to find/create/architect simple "annotation, couching software".
 
-"You're describing a telestrator, which is what people like John Madden use to show the various positions and plays in football games. "
-
 
 ## Features:
 
@@ -35,11 +33,25 @@ no buttons please, all in the video area
 	- save to local disk
 	- share (FB, Youtube)
 
-## Links
+## Buzzwords
 
+- "You're describing a telestrator, which is what people like John Madden use to show the various positions and plays in football games. "
+- "Instant Replay Video Analysis
+- "Annotate Video"
+- "Draw over video"
+- "Video Coach"
+
+## Links
+- <https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video>
+-<https://developer.mozilla.org/samples/video/chroma-key/index.xhtml>
+- <http://caniuse.com/#search=Video>
+- play video from local disk <http://jsfiddle.net/dsbonev/cCCZ2/presentation/>
 ## Apps
+- <http://www.touchcast.com>
 - <http://www.hudl.com>
 - iAnalyze (crashes)
+- draw on video (not interactive, cannot draw and present at the same time)
+- Coach's Eye - Instant Replay Video Analysis
 
 - <http://popcornjs.org>
 - <https://popcorn.webmaker.org>		
