@@ -1,0 +1,45 @@
+# Video
+
+
+My sample mission is to find/create/architect simple "annotation, couching software".
+
+"You're describing a telestrator, which is what people like John Madden use to show the various positions and plays in football games. "
+
+
+## Features:
+
+- choose video (quickly, drag, last used etc...)
+	- local
+	- net
+- control playback with simple gestures 
+(click, doubleclicks, some mobile equivalents), 
+no buttons please, all in the video area
+	- pause
+	- slow down
+	- backward, forward (speed of forward and backward is based on my movement speed, NO SLIDER again gesture over video)
+- freehand draw using mouse, touch or pen 
+	- over still video
+	- over slowly running video
+	- maybe just change pen color very quickly 
+- freez frames
+	- add freez frame
+	- running anotation over freez frame
+	- slow before and after freez frame	
+- play with anotations 
+	- stills
+	- running anotation recorded during slow motion
+
+- export video with anotations
+	- as video + some metadata 
+	- as video only (flaten)
+	- save to local disk
+	- share (FB, Youtube)
+
+## Links
+
+## Apps
+- <http://www.hudl.com>
+- iAnalyze (crashes)
+
+- <http://popcornjs.org>
+- <https://popcorn.webmaker.org>		
