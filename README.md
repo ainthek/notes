@@ -32,6 +32,7 @@ Mainly collected from older projects, and needs massive review.
 - <https://github.com/medikoo/es5-ext>
 - JavaScript and the living ECMAScript Standard <http://webreflection.blogspot.de/2015/01/javascript-and-living-ecmascript.html>
 - ES6 In Depth Articles <https://hacks.mozilla.org/category/es6-in-depth/>
+- es6-equivalents-in-es5 <https://github.com/addyosmani/es6-equivalents-in-es5#template-literals>
 
 # Progressive Enhancement
 
@@ -44,8 +45,17 @@ Mainly collected from older projects, and needs massive review.
 
 # Performance 
 
+- [Best Practices for Speeding Up Your Web Site, yahoo](https://developer.yahoo.com/performance/rules.html)
 - <http://www.stevesouders.com/blog/>
+- [High Performance Web Sites, Essential Knowledge for Front-End Engineers](http://shop.oreilly.com/product/9780596529307.do)
+- [Web Performance Daybook Volume 2, Techniques and Tips for Optimizing Web Site Performance](http://shop.oreilly.com/product/0636920025955.do)
+- <http://www.phpied.com/conditional-comments-block-downloads/>
 
+## Online Perf. Test Websites
+- <http://www.webpagetest.org>
+
+## Image Optimization Tools
+- [Smush it](http://www.imgopt.com/)
 
 # Security
 
@@ -54,7 +64,7 @@ Mainly collected from older projects, and needs massive review.
 - <http://matasano.com/articles/javascript-cryptography/>
 
 - <https://nodesecurity.io>
-- Tangle Web Book <http://www.nostarch.com/tangledweb.html>
+- Tangled Web Book <http://www.nostarch.com/tangledweb.html>
 
 - HTTP access control (CORS) <https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS>
 - Content Security Policy <https://developer.mozilla.org/en-US/docs/Web/Security/CSP/Introducing_Content_Security_Policy>
