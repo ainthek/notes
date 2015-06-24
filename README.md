@@ -34,6 +34,7 @@ Mainly collected from older projects, and needs massive review.
 - ES6 In Depth Articles <https://hacks.mozilla.org/category/es6-in-depth/>
 - es6-equivalents-in-es5 <https://github.com/addyosmani/es6-equivalents-in-es5#template-literals>
 
+- exploring-es6 (book) <https://leanpub.com/exploring-es6/read>
 # Progressive Enhancement
 
 - [The JavaScript-Dependency Backlash: Myth-Busting Progressive Enhancement](http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/)
