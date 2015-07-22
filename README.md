@@ -9,7 +9,7 @@ see also [Essential JavaScript Links](https://github.com/ericelliott/essential-j
 
 # AST
 
-## Web Components 
+## Web Components, Widgets, Mashups
 
 - <http://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/>
 - <http://webcomponents.org/articles/>
@@ -19,6 +19,7 @@ see also [Essential JavaScript Links](https://github.com/ericelliott/essential-j
 - [A W3C Custom Elements Alternative]<http://webreflection.blogspot.sk/2014/07/a-w3c-custom-elements-alternative.html>
 - [Style tools for UI components]<https://suitcss.github.io>
 - <http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/>
+- <https://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/>
 
 ## JS
 - <http://www.graspjs.com> - heavy usage for QA checks
