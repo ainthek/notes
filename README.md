@@ -71,6 +71,8 @@ Mainly collected from older projects, and needs massive review.
 
 - <https://blog.mozilla.org/javascript/2015/02/26/the-path-to-parallel-javascript/>
 
+-<http://docs.spring.io/autorepo/docs/spring-security/3.2.0.CI-SNAPSHOT/reference/html/csrf.html>
+
 ## Security Headers
 
 - Guidelines for Setting Security Headers <https://www.veracode.com/blog/2014/03/guidelines-for-setting-security-headers>
