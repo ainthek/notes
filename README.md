@@ -1,10 +1,25 @@
 # notes
 
-My personal notes and bookmarks about various web-dev topics.
-Mainly collected from older projects, and needs massive review.
+My personal notes and bookmarks about various web-dev topics. Originally collected in 
+outr internal bookmarking system, but now moved and re-selected here.
+Mainly collected from older projects, all this needs a massive review.
+
+see also [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links/).
 
 
 # AST
+
+## Web Components, Widgets, Mashups
+
+- <http://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/>
+- <http://webcomponents.org/articles/>
+- [An Addendum to Why Web Components Aren't Ready for Production Yet](<http://tjvantoll.com/2014/07/18/an-addendum-to-why-web-components-arent-ready-for-production-yet)
+
+
+- [A W3C Custom Elements Alternative]<http://webreflection.blogspot.sk/2014/07/a-w3c-custom-elements-alternative.html>
+- [Style tools for UI components]<https://suitcss.github.io>
+- <http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/>
+- <https://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/>
 
 ## JS
 - <http://www.graspjs.com> - heavy usage for QA checks
@@ -20,6 +35,7 @@ Mainly collected from older projects, and needs massive review.
 - <http://caniuse.com/>
 - <https://kangax.github.io/compat-table/es6/>
 - <https://status.modern.ie/>
+- <https://www.chromestatus.com/features>
 - [CSS Compatibility and Internet Explorer](https://msdn.microsoft.com/en-us/library/cc351024\(v=vs.85\).aspx)
 - <http://fmbip.com/litmus>
 - <http://www.quirksmode.org/compatibility.html>
@@ -34,6 +50,7 @@ Mainly collected from older projects, and needs massive review.
 - ES6 In Depth Articles <https://hacks.mozilla.org/category/es6-in-depth/>
 - es6-equivalents-in-es5 <https://github.com/addyosmani/es6-equivalents-in-es5#template-literals>
 
+- exploring-es6 (book) <https://leanpub.com/exploring-es6/read>
 # Progressive Enhancement
 
 - [The JavaScript-Dependency Backlash: Myth-Busting Progressive Enhancement](http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/)

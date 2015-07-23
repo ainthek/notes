@@ -1,4 +1,4 @@
-# Video
+# Video Mission 1
 
 
 My sample mission is to find/create/architect simple "annotation, couching software".
@@ -41,8 +41,22 @@ no buttons please, all in the video area
 - "Draw over video"
 - "Video Coach"
 
+# Video Mission 2
+
+Support creating action sequences from video.
+Allow to take screenshots from video,
+Overlay screenshot over the video or previous previous screenshot so user can 
+easily adjust distance between object on images.
+Export and save pictures to disk for processing in GIMP.
+
+- <http://www.html5multimedia.com/code/ch9/video-canvas-screenshot.html>
+
+
+
+
 ## Links
 - <https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video>
+- <http://www.html5multimedia.com/code/ch9/video-canvas-screenshot.html>
 -<https://developer.mozilla.org/samples/video/chroma-key/index.xhtml>
 - <http://caniuse.com/#search=Video>
 - play video from local disk <http://jsfiddle.net/dsbonev/cCCZ2/presentation/>
@@ -54,4 +68,6 @@ no buttons please, all in the video area
 - Coach's Eye - Instant Replay Video Analysis
 
 - <http://popcornjs.org>
-- <https://popcorn.webmaker.org>		
+- <https://popcorn.webmaker.org>
+
+- <http://creative-jar.com/insights/digital-technology/how-to-take-a-photo-with-html5/>
