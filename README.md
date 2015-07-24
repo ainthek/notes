@@ -88,7 +88,13 @@ see also [Essential JavaScript Links](https://github.com/ericelliott/essential-j
 
 - <https://blog.mozilla.org/javascript/2015/02/26/the-path-to-parallel-javascript/>
 
--<http://docs.spring.io/autorepo/docs/spring-security/3.2.0.CI-SNAPSHOT/reference/html/csrf.html>
+- <http://docs.spring.io/autorepo/docs/spring-security/3.2.0.CI-SNAPSHOT/reference/html/csrf.html>
+
+## iframes
+
+- <https://www.tinfoilsecurity.com/blog/protect-your-website-from-embedded-content-iframe-security>
+- <http://seclab.stanford.edu/websec/framebusting/framebust.pdf>
+
 
 ## Security Headers
 
