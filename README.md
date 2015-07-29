@@ -6,10 +6,7 @@ Mainly collected from older projects, all this needs a massive review.
 
 see also [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links/).
 
-
-# AST
-
-## Web Components, Widgets, Mashups
+# Web Components, Widgets, Mashups
 
 - <http://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/>
 - <http://webcomponents.org/articles/>
@@ -21,6 +18,8 @@ see also [Essential JavaScript Links](https://github.com/ericelliott/essential-j
 - <http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/>
 - <https://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/>
 
+# AST
+
 ## JS
 - <http://www.graspjs.com> - heavy usage for QA checks
 - <https://github.com/tweakjs/ast-tree> - TODO: review
@@ -31,6 +30,9 @@ see also [Essential JavaScript Links](https://github.com/ericelliott/essential-j
 - <https://github.com/stoyan/gonzales-ast>
 
 # Compatibility Matrixes
+
+- CLI caniuse <http://davidwalsh.name/caniuse-command-line>
+- CLI compat-table (kangax) <https://github.com/ainthek/compat-table> 
 
 - <http://caniuse.com/>
 - <https://kangax.github.io/compat-table/es6/>
