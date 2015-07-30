@@ -99,6 +99,14 @@ see also [Essential JavaScript Links](https://github.com/ericelliott/essential-j
 - JSON regexp is Bypassable] <http://blog.mindedsecurity.com/2011/08/ye-olde-crockford-json-regexp-is.html>
 - <https://auth0.com/blog/2015/03/31/critical-vulnerabilities-in-json-web-token-libraries/>
 
+# Css
+
+Shaped Corners/Borders
+
+- Slanted Corner <http://stackoverflow.com/questions/7059597/slanted-corner-on-css-box>
+- Old fashion solution <http://meyerweb.com/eric/css/edge/slantastic/demo.html>
+- CSS Polygons <https://alastairc.ac/2007/02/dissecting-css-polygons/>
+- Furture <http://lea.verou.me/2013/03/preview-border-corner-shape-before-implementations/>
 
 # Others
 
