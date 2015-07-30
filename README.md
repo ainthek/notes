@@ -4,7 +4,10 @@ My personal notes and bookmarks about various web-dev topics. Originally collect
 outr internal bookmarking system, but now moved and re-selected here.
 Mainly collected from older projects, all this needs a massive review.
 
-see also [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links/).
+see also 
+
+-[Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links/).
+-[awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 
 # Web Components, Widgets, Mashups
 
@@ -118,9 +121,10 @@ Shaped Corners/Borders
 - CSS Polygons <https://alastairc.ac/2007/02/dissecting-css-polygons/>
 - Furture <http://lea.verou.me/2013/03/preview-border-corner-shape-before-implementations/>
 
-Unused Selectors
+(Unused) Selectors
 
-- rhttp://addyosmani.com/blog/removing-unused-css/
+- http://addyosmani.com/blog/removing-unused-css/
+- http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling
 
 # Others
 
