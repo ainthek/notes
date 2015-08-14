@@ -95,6 +95,15 @@ see also
 
 - <http://docs.spring.io/autorepo/docs/spring-security/3.2.0.CI-SNAPSHOT/reference/html/csrf.html>
 
+## SAML , OAuth
+
+- Choosing an SSO Strategy: SAML vs OAuth2 <https://www.mutuallyhuman.com/blog/2013/05/09/choosing-an-sso-strategy-saml-vs-oauth2/>
+
+- <https://developers.google.com/oauthplayground>
+- <http://jwt.io/>
+
+
+
 ## iframes
 
 - <https://www.tinfoilsecurity.com/blog/protect-your-website-from-embedded-content-iframe-security>
