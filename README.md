@@ -9,6 +9,12 @@ see also
 -[Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links/).
 -[awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 
+# Architecture
+
+- <http://www.codingthearchitecture.com/>
+- <http://www.martinfowler.com/>
+
+
 # Web Components, Widgets, Mashups
 
 - <http://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/>
