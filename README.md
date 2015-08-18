@@ -101,14 +101,23 @@ see also
 
 - <http://docs.spring.io/autorepo/docs/spring-security/3.2.0.CI-SNAPSHOT/reference/html/csrf.html>
 
-## SAML , OAuth
+## SAML , OAuth, Open Connect
 
 - Choosing an SSO Strategy: SAML vs OAuth2 <https://www.mutuallyhuman.com/blog/2013/05/09/choosing-an-sso-strategy-saml-vs-oauth2/>
 
 - <https://developers.google.com/oauthplayground>
 - <http://jwt.io/>
 
+### OpenId Connect
 
+- <https://www.youtube.com/watch?v=Kb56GzQ2pSk>
+
+- <http://openid.net/connect/>
+- <http://nat.sakimura.org/2012/01/20/openid-connect-nutshell/>
+- <http://nat.sakimura.org/2013/07/28/write-openid-connect-server-in-three-simple-steps/>
+
+- <http://fr.slideshare.net/zeronine1/open-id-connect-lecture-for-mit>
+- <https://github.com/GluuFederation>
 
 ## iframes
 
@@ -140,6 +149,11 @@ Shaped Corners/Borders
 
 - http://addyosmani.com/blog/removing-unused-css/
 - http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling
+
+# Testing
+
+- UI Testing (my repo with links and notes) <https://github.com/ainthek/ui-testing>
+- [Why I use Tape Instead of Mocha and So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
 
 # Others
 
