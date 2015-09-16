@@ -155,6 +155,11 @@ Shaped Corners/Borders
 - UI Testing (my repo with links and notes) <https://github.com/ainthek/ui-testing>
 - [Why I use Tape Instead of Mocha and So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
 
+# Reactive Programming
+
+- <https://gist.github.com/staltz/868e7e9bc2a7b8c1f754>
+- <http://blog.ractivejs.org/posts/whats-the-difference-between-react-and-ractive/>
+
 # Others
 
 - <http://www.grpc.io/>
