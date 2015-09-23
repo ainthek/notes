@@ -101,6 +101,8 @@ see also
 
 - <http://docs.spring.io/autorepo/docs/spring-security/3.2.0.CI-SNAPSHOT/reference/html/csrf.html>
 
+
+
 ## SAML , OAuth, Open Connect
 
 - Choosing an SSO Strategy: SAML vs OAuth2 <https://www.mutuallyhuman.com/blog/2013/05/09/choosing-an-sso-strategy-saml-vs-oauth2/>
@@ -132,6 +134,8 @@ see also
 
 ## Attacks and Vulns
 
+- xss.io <https://github.com/evilpacket/xss.io>
+	(web will go down on 30.9.2015, this is the code)
 - ReDoS <https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS>
 - JSON regexp is Bypassable] <http://blog.mindedsecurity.com/2011/08/ye-olde-crockford-json-regexp-is.html>
 - <https://auth0.com/blog/2015/03/31/critical-vulnerabilities-in-json-web-token-libraries/>
