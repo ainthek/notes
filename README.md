@@ -160,6 +160,9 @@ Shaped Corners/Borders
 - <https://gist.github.com/staltz/868e7e9bc2a7b8c1f754>
 - <http://blog.ractivejs.org/posts/whats-the-difference-between-react-and-ractive/>
 
+- <http://www.flapjax-lang.org>
+- <http://conal.net/papers/simply-reactive/old-tech-report-superceded.pdf>
+
 # Others
 
 - <http://www.grpc.io/>
