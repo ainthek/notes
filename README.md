@@ -101,6 +101,7 @@ see also
 
 - <http://docs.spring.io/autorepo/docs/spring-security/3.2.0.CI-SNAPSHOT/reference/html/csrf.html>
 
+- <https://github.com/Netflix/sleepy-puppy>
 
 
 ## SAML , OAuth, Open Connect
