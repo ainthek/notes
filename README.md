@@ -37,6 +37,7 @@ see also
 
 ## CSS
 - <https://github.com/stoyan/gonzales-ast>
+- <https://github.com/macbre/analyze-css> (not really AST but usefull)
 
 # Compatibility Matrixes
 
@@ -84,6 +85,9 @@ see also
 
 ## Image Optimization Tools
 - [Smush it](http://www.imgopt.com/)
+
+## CSS 
+- <https://github.com/addyosmani/critical-path-css-tools>
 
 # Security
 
