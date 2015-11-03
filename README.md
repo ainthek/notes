@@ -164,6 +164,13 @@ Shaped Corners/Borders
 - UI Testing (my repo with links and notes) <https://github.com/ainthek/ui-testing>
 - [Why I use Tape Instead of Mocha and So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
 
+# Streams (node)
+
+- <https://nodejs.org/api/stream.html>
+- <https://github.com/substack/stream-handbook>
+- <https://github.com/dominictarr/event-stream>
+- <http://ejohn.org/blog/node-js-stream-playground/> bit old ;-(
+
 # Reactive Programming
 
 - <https://gist.github.com/staltz/868e7e9bc2a7b8c1f754>
