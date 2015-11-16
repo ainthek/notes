@@ -14,6 +14,9 @@ see also
 - <http://www.codingthearchitecture.com/>
 - <http://www.martinfowler.com/>
 
+## Microservices
+
+- <https://leanpub.com/microservices-book/>
 
 # Web Components, Widgets, Mashups
 
@@ -178,6 +181,8 @@ Shaped Corners/Borders
 
 - <http://www.flapjax-lang.org>
 - <http://conal.net/papers/simply-reactive/old-tech-report-superceded.pdf>
+
+
 
 # Others
 
