@@ -182,6 +182,11 @@ Shaped Corners/Borders
 - <http://www.flapjax-lang.org>
 - <http://conal.net/papers/simply-reactive/old-tech-report-superceded.pdf>
 
+# Node.js 'desktop frameworks'
+
+we may start here:
+
+- <http://www.tivix.com/blog/nwjs-and-electronjs-web-technology-desktop/>
 
 
 # Others
