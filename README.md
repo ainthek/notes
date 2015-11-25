@@ -66,6 +66,10 @@ see also
 - es6-equivalents-in-es5 <https://github.com/addyosmani/es6-equivalents-in-es5#template-literals>
 
 - exploring-es6 (book) <https://leanpub.com/exploring-es6/read>
+
+- <http://es6-features.org/>
+- <https://github.com/bevacqua/es6/blob/master/readme.markdown>
+
 # Progressive Enhancement
 
 - [The JavaScript-Dependency Backlash: Myth-Busting Progressive Enhancement](http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/)
@@ -188,6 +192,9 @@ we may start here:
 
 - <http://www.tivix.com/blog/nwjs-and-electronjs-web-technology-desktop/>
 
+# Web Site Generators
+
+- <http://designmodo.com/static-website-generators/>
 
 # Others
 
