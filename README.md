@@ -102,7 +102,6 @@ see also
 - Mario Heiderich <http://www.slideshare.net/x00mario?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview>
 - <http://matasano.com/articles/javascript-cryptography/>
 
-- <https://nodesecurity.io>
 - Tangled Web Book <http://www.nostarch.com/tangledweb.html>
 
 - HTTP access control (CORS) <https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS>
@@ -113,6 +112,12 @@ see also
 - <http://docs.spring.io/autorepo/docs/spring-security/3.2.0.CI-SNAPSHOT/reference/html/csrf.html>
 
 - <https://github.com/Netflix/sleepy-puppy>
+
+### External Modules/Libs (node, java) Dependencies Vulnerability Scanners, Advisory
+
+- <https://nodesecurity.io>
+- <https://snyk.io/>
+- <https://www.owasp.org/index.php/OWASP_Dependency_Check>
 
 
 ## SAML , OAuth, Open Connect
