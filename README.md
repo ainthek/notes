@@ -179,6 +179,12 @@ Shaped Corners/Borders
 - <http://www.flapjax-lang.org>
 - <http://conal.net/papers/simply-reactive/old-tech-report-superceded.pdf>
 
+# Static Web Sites (Generators)
+
+- <https://staticsitegenerators.net>, <https://github.com/bevry/staticsitegenerators-list> - 409 documented
+- <https://www.staticgen.com>, <https://github.com/netlify/staticgen> - 126 documented
+- TODO: find web site with FEATURES compared
+
 # Others
 
 - <http://www.grpc.io/>
