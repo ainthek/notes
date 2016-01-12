@@ -14,6 +14,9 @@ see also
 - <http://www.codingthearchitecture.com/>
 - <http://www.martinfowler.com/>
 
+## Microservices
+
+- <https://leanpub.com/microservices-book/>
 
 # Web Components, Widgets, Mashups
 
@@ -63,6 +66,10 @@ see also
 - es6-equivalents-in-es5 <https://github.com/addyosmani/es6-equivalents-in-es5#template-literals>
 
 - exploring-es6 (book) <https://leanpub.com/exploring-es6/read>
+
+- <http://es6-features.org/>
+- <https://github.com/bevacqua/es6/blob/master/readme.markdown>
+
 # Progressive Enhancement
 
 - [The JavaScript-Dependency Backlash: Myth-Busting Progressive Enhancement](http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/)
@@ -95,7 +102,6 @@ see also
 - Mario Heiderich <http://www.slideshare.net/x00mario?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview>
 - <http://matasano.com/articles/javascript-cryptography/>
 
-- <https://nodesecurity.io>
 - Tangled Web Book <http://www.nostarch.com/tangledweb.html>
 
 - HTTP access control (CORS) <https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS>
@@ -106,6 +112,12 @@ see also
 - <http://docs.spring.io/autorepo/docs/spring-security/3.2.0.CI-SNAPSHOT/reference/html/csrf.html>
 
 - <https://github.com/Netflix/sleepy-puppy>
+
+### External Modules/Libs (node, java) Dependencies Vulnerability Scanners, Advisory
+
+- <https://nodesecurity.io>
+- <https://snyk.io/>
+- <https://www.owasp.org/index.php/OWASP_Dependency_Check>
 
 
 ## SAML , OAuth, Open Connect
@@ -179,11 +191,19 @@ Shaped Corners/Borders
 - <http://www.flapjax-lang.org>
 - <http://conal.net/papers/simply-reactive/old-tech-report-superceded.pdf>
 
+
 # Static Web Sites (Generators)
 
+- <http://designmodo.com/static-website-generators/>
 - <https://staticsitegenerators.net>, <https://github.com/bevry/staticsitegenerators-list> - 409 documented
 - <https://www.staticgen.com>, <https://github.com/netlify/staticgen> - 126 documented
 - TODO: find web site with FEATURES compared
+
+# Node.js 'desktop frameworks'
+
+we may start here:
+
+- <http://www.tivix.com/blog/nwjs-and-electronjs-web-technology-desktop/>
 
 # Others
 
