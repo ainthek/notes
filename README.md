@@ -91,7 +91,9 @@ see also
 - <http://www.webpagetest.org>
 
 ## Image Optimization Tools
-- [Smush it](http://www.imgopt.com/)
+- <https://addyosmani.com/blog/image-optimization-tools/>
+- [Smush it](http://www.imgopt.com/) - is dead
+- <https://www.npmjs.com/package/imagemin>
 
 ## CSS 
 - <https://github.com/addyosmani/critical-path-css-tools>
