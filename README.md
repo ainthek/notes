@@ -8,6 +8,7 @@ see also
 
 -[Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links/).
 -[awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
+-[Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
 # Architecture
 
@@ -75,9 +76,11 @@ see also
 - [The JavaScript-Dependency Backlash: Myth-Busting Progressive Enhancement](http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/)
 - [progressive-reduction](http://www.dtelepathy.com/blog/design/progressive-reduction-evolving-the-experience-for-your-most-frequent-users)
 
-# Charting
+# Visualisation and Charting 
 
+- <http://www.datavizcatalogue.com/>
 - <http://www.jsgraphs.com/>
+- <http://http://dexvis.com/>
 
 # Performance 
 
