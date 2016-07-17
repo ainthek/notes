@@ -80,7 +80,12 @@ see also
 
 - <http://www.datavizcatalogue.com/>
 - <http://www.jsgraphs.com/>
+
+- [PlantUML](http://plantuml.com)
+- <http://ditaa.sourceforge.net>
 - <http://http://dexvis.com/>
+- <http://www.codingthearchitecture.com/>, <https://structurizr.com/>
+- <https://leanpub.com/visualising-software-architecture>
 
 # Performance 
 
