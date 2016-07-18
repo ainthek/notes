@@ -83,7 +83,7 @@ see also
 
 - [PlantUML](http://plantuml.com)
 - <http://ditaa.sourceforge.net>
-- <http://http://dexvis.com/>
+- <http://dexvis.com/>, <https://github.com/PatMartin/Dex>
 - <http://www.codingthearchitecture.com/>, <https://structurizr.com/>
 - <https://leanpub.com/visualising-software-architecture>
 
