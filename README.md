@@ -10,6 +10,19 @@ see also
 - [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 - [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
+# Algorithms
+
+## Catalogues
+
+- <https://en.wikipedia.org/wiki/List_of_algorithms>
+- <http://www3.cs.stonybrook.edu/~algorith/>
+- <https://xlinux.nist.gov/dads/>, <https://xlinux.nist.gov/dads/termsArea.html>
+
+## Books
+
+- Data Structures and Algorithms with JavaScript <http://shop.oreilly.com/product/0636920029557.do>
+- Algorithm-Design-Manual-Steven-Skiena <https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693?ie=UTF8&redirect=true&tag=thealgorithmrepo>
+
 # Architecture
 
 - <http://www.codingthearchitecture.com/>
