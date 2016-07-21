@@ -121,6 +121,7 @@ see also
 
 # Security
 
+- <https://www.hacksplaining.com/>
 - <https://www.youtube.com/user/OWASPGLOBAL>
 - Mario Heiderich <http://www.slideshare.net/x00mario?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview>
 - <http://matasano.com/articles/javascript-cryptography/>
