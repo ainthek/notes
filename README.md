@@ -4,11 +4,16 @@ My personal notes and bookmarks about various web-dev topics. Originally collect
 outr internal bookmarking system, but now moved and re-selected here.
 Mainly collected from older projects, all this needs a massive review.
 
-see also 
+see also list of others:
 
 - [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links/).
 - [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 - [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
+my video list on YouTube:
+
+- <https://www.youtube.com/playlist?list=PLR2I3D2deb53AisyD6QJABIbrW5Kd-7HE>	
+
 
 # Algorithms
 
@@ -181,7 +186,7 @@ see also
 - JSON regexp is Bypassable] <http://blog.mindedsecurity.com/2011/08/ye-olde-crockford-json-regexp-is.html>
 - <https://auth0.com/blog/2015/03/31/critical-vulnerabilities-in-json-web-token-libraries/>
 
-# Css
+# CSS
 
 Shaped Corners/Borders
 
@@ -194,6 +199,15 @@ Shaped Corners/Borders
 
 - http://addyosmani.com/blog/removing-unused-css/
 - http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling
+
+CSS Tools
+
+- Remove unused styles from CSS <https://github.com/giakki/uncss>
+- JS Plugins for CSS processing <https://github.com/postcss/postcss>
+
+dojo CSS
+
+- <https://dojotoolkit.org/reference-guide/1.10/dijit/themes.html>
 
 # Testing
 
