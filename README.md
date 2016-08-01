@@ -32,10 +32,23 @@ my video list on YouTube:
 
 - <http://www.codingthearchitecture.com/>
 - <http://www.martinfowler.com/>
+- Architectural Styles and the Design of Network-based Software Architectures <http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm>
 
 ## Microservices
 
+- <http://microservices.io/>
 - <https://leanpub.com/microservices-book/>
+
+## REST
+
+- Architectural Styles and the Design of Network-based Software Architectures <http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm>
+
+- RESTful Web Services (book) <http://shop.oreilly.com/product/9780596529260.do>
+
+### IDLs For Web Services
+
+- Swagger, OAI <http://swagger.io/>
+- RAML <http://raml.org/>
 
 # Web Components, Widgets, Mashups
 
