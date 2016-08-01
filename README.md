@@ -62,7 +62,12 @@ my video list on YouTube:
 - <http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/>
 - <https://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/>
 
-# AST
+# AST, grammars, etc..
+
+## Java
+
+- <http://depfind.sourceforge.net/>
+- <http://www.antlr3.org/>
 
 ## JS
 - <http://www.graspjs.com> - heavy usage for QA checks
