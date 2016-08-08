@@ -72,6 +72,7 @@ my video list on YouTube:
 ## JS
 - <http://www.graspjs.com> - heavy usage for QA checks
 - <https://github.com/tweakjs/ast-tree> - TODO: review
+- <https://github.com/benjamn/recast>, JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator 
 - <https://github.com/estools/estraverse> see also other modules used by 'plato'
 
 
