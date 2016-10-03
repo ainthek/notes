@@ -112,6 +112,7 @@ my video list on YouTube:
 
 TODO: cleanup this section
 
+- <https://dojotoolkit.org/documentation/tutorials/1.10/modules/>
 - <https://addyosmani.com/writing-modular-js/>
 - <https://github.com/substack/browserify-handbook#node-packaged-manuscript>
 - <http://webreflection.blogspot.sk/2013/02/javascript-modules-maybe.html>
