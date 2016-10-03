@@ -108,6 +108,17 @@ my video list on YouTube:
 - <http://es6-features.org/>
 - <https://github.com/bevacqua/es6/blob/master/readme.markdown>
 
+## JS Module systems
+
+TODO: cleanup this section
+
+- <https://addyosmani.com/writing-modular-js/>
+- <https://github.com/substack/browserify-handbook#node-packaged-manuscript>
+- <http://webreflection.blogspot.sk/2013/02/javascript-modules-maybe.html>
+- <https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.hlzo9a219>
+ 
+- <https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules>
+
 # Progressive Enhancement
 
 - [The JavaScript-Dependency Backlash: Myth-Busting Progressive Enhancement](http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/)
