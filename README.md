@@ -136,6 +136,13 @@ TODO: cleanup this section
 - <http://www.codingthearchitecture.com/>, <https://structurizr.com/>
 - <https://leanpub.com/visualising-software-architecture>
 
+# Regular Expressions
+
+- <https://www.youtube.com/watch?v=EkluES9Rvak>
+- <https://leaverou.github.io/regexplained/>
+- <https://regex101.com/> - test various Flavors 
+- <https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Regular_Expressions>
+
 # Performance 
 
 - [Best Practices for Speeding Up Your Web Site, yahoo](https://developer.yahoo.com/performance/rules.html)
@@ -273,6 +280,10 @@ dojo CSS
 we may start here:
 
 - <http://www.tivix.com/blog/nwjs-and-electronjs-web-technology-desktop/>
+
+# Online Assesments
+
+- <https://realskill.io/tests/1087>
 
 # Others
 
