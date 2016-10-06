@@ -28,6 +28,22 @@ my video list on YouTube:
 - Data Structures and Algorithms with JavaScript <http://shop.oreilly.com/product/0636920029557.do>
 - Algorithm-Design-Manual-Steven-Skiena <https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693?ie=UTF8&redirect=true&tag=thealgorithmrepo>
 
+# Software Prinicples
+
+- DRY
+- YAGNI
+- SOLID
+	- SRP	The Single Responsibility Principle	The single responsibility principle
+	- OCP	The Open Closed Principle	The open closed principle
+	- LSP	The Liskov Substitution Principle	Liskov Substitution Principle
+	- DIP	The Dependency Inversion Principle	Dependency Inversion Principle
+	- ISP	The Interface Segregation Principle	The principle of the separation of interface
+
+
+- <https://www.youtube.com/watch?v=llGgO74uXMI> very good video
+- <http://sub.watchmecode.net/solid-javascript-presentation/>
+- <http://martinfowler.com/bliki/Yagni.html>
+
 # Architecture
 
 - <http://www.codingthearchitecture.com/>
