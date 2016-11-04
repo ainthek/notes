@@ -193,7 +193,7 @@ TODO: cleanup this section
 - <https://blog.mozilla.org/javascript/2015/02/26/the-path-to-parallel-javascript/>
 
 - <http://docs.spring.io/autorepo/docs/spring-security/3.2.0.CI-SNAPSHOT/reference/html/csrf.html>
-
+- Github CSRF Tutorial, JWT Fun <https://github.com/stormpath/roadstorm-jwt-csrf-tutorial>
 - <https://github.com/Netflix/sleepy-puppy>
 
 ### External Modules/Libs (node, java) Dependencies Vulnerability Scanners, Advisory
@@ -203,12 +203,15 @@ TODO: cleanup this section
 - <https://www.owasp.org/index.php/OWASP_Dependency_Check>
 
 
-## SAML , OAuth, Open Connect
+## SAML , OAuth, Open Connect, JWT
 
 - Choosing an SSO Strategy: SAML vs OAuth2 <https://www.mutuallyhuman.com/blog/2013/05/09/choosing-an-sso-strategy-saml-vs-oauth2/>
 
 - <https://developers.google.com/oauthplayground>
 - <http://jwt.io/>
+
+- Github JJWT <https://github.com/jwtk/jjwt>
+- <https://www.jwtinspector.io/>
 
 ### OpenId Connect
 
