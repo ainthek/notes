@@ -201,7 +201,7 @@ TODO: cleanup this section
 - <https://nodesecurity.io>
 - <https://snyk.io/>
 - <https://www.owasp.org/index.php/OWASP_Dependency_Check>
-
+- <https://npmcompare.com>
 
 ## SAML , OAuth, Open Connect, JWT
 
