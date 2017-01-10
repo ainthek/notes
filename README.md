@@ -295,6 +295,13 @@ dojo CSS
 - <https://www.staticgen.com>, <https://github.com/netlify/staticgen> - 126 documented
 - TODO: find web site with FEATURES compared
 
+# Web Scraping
+
+- <https://www.httrack.com>
+- <https://www.npmjs.com/package/cheerio-cli>
+- pandoc
+
+
 # Node.js 'desktop frameworks'
 
 we may start here:
