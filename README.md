@@ -53,8 +53,11 @@ my video list on YouTube:
 ## Microservices
 
 - <http://microservices.io/>
+- Patterns <http://microservices.io/patterns/index.html>
+- Introduction by NGINX <https://www.nginx.com/blog/introduction-to-microservices/>
 - <https://leanpub.com/microservices-book/>
 - [Microservices Security: All The Questions You Should Be Asking](http://www.grahamlea.com/2015/07/microservices-security-questions/)
+
 
 ## REST
 
