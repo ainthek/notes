@@ -6,6 +6,7 @@ Mainly collected from older projects, all this needs a massive review.
 
 see also list of others:
 
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links/).
 - [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 - [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
