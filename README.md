@@ -53,8 +53,11 @@ my video list on YouTube:
 ## Microservices
 
 - <http://microservices.io/>
+- Patterns <http://microservices.io/patterns/index.html>
+- Introduction by NGINX <https://www.nginx.com/blog/introduction-to-microservices/>
 - <https://leanpub.com/microservices-book/>
 - [Microservices Security: All The Questions You Should Be Asking](http://www.grahamlea.com/2015/07/microservices-security-questions/)
+
 
 ## REST
 
@@ -332,6 +335,13 @@ Books:
 - <https://staticsitegenerators.net>, <https://github.com/bevry/staticsitegenerators-list> - 409 documented
 - <https://www.staticgen.com>, <https://github.com/netlify/staticgen> - 126 documented
 - TODO: find web site with FEATURES compared
+
+# Web Scraping
+
+- <https://www.httrack.com>
+- <https://www.npmjs.com/package/cheerio-cli>
+- pandoc
+
 
 # Node.js 'desktop frameworks'
 
