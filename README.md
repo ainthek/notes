@@ -309,6 +309,8 @@ Algs:
 - <http://www.flapjax-lang.org>
 - <http://conal.net/papers/simply-reactive/old-tech-report-superceded.pdf>
 
+- <https://www.sitepen.com/blog/2017/02/27/functional-reactive-programming-and-observables-in-javascript-typescript-and-dojo-2/>
+
 Libs:
 
 - <https://github.com/kriszyp/alkali>
