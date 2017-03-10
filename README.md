@@ -91,7 +91,15 @@ my video list on YouTube:
 - <https://github.com/tweakjs/ast-tree> - TODO: review
 - <https://github.com/benjamn/recast>, JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator 
 - <https://github.com/estools/estraverse> see also other modules used by 'plato'
+- <https://www.sitepoint.com/understanding-asts-building-babel-plugin>
 
+Dependency Trees:
+	
+- <https://github.com/mrjoelkemp/node-dependency-tree>
+- <https://github.com/pahen/madge>
+- <https://github.com/auchenberg/dependo>
+
+- <https://github.com/siddharthkp/cost-of-modules>
 
 ## CSS
 - <https://github.com/stoyan/gonzales-ast>
@@ -168,6 +176,8 @@ TODO: cleanup this section
 - [Web Performance Daybook Volume 2, Techniques and Tips for Optimizing Web Site Performance](http://shop.oreilly.com/product/0636920025955.do)
 - <http://www.phpied.com/conditional-comments-block-downloads/>
 
+- [Optimization-killers by petkaantonov](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
+
 ## Online Perf. Test Websites
 - <http://www.webpagetest.org>
 
@@ -202,7 +212,9 @@ TODO: cleanup this section
 - <https://nodesecurity.io>
 - <https://snyk.io/>
 - <https://www.owasp.org/index.php/OWASP_Dependency_Check>
-- <https://npmcompare.com>
+
+- <https://snyk.io/blog/publishing-malicious-packages/>
+
 
 ## SAML , OAuth, Open Connect, JWT
 
@@ -272,12 +284,18 @@ dojo CSS
 - UI Testing (my repo with links and notes) <https://github.com/ainthek/ui-testing>
 - [Why I use Tape Instead of Mocha and So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
 
-# Streams (node)
+# Streams 
+
+Node:
 
 - <https://nodejs.org/api/stream.html>
 - <https://github.com/substack/stream-handbook>
 - <https://github.com/dominictarr/event-stream>
 - <http://ejohn.org/blog/node-js-stream-playground/> bit old ;-(
+
+Algs:
+
+- <https://www.mapr.com/blog/some-important-streaming-algorithms-you-should-know-about>
 
 # Reactive Programming
 
@@ -287,6 +305,26 @@ dojo CSS
 - <http://www.flapjax-lang.org>
 - <http://conal.net/papers/simply-reactive/old-tech-report-superceded.pdf>
 
+Libs:
+
+- <https://github.com/kriszyp/alkali>
+
+# Async
+
+- <http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html>
+- <https://blog.getify.com/promises-wrong-ways/>
+- <https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns>
+
+# Getters/Setters/Observable/Computed properties
+Anything that relates to modeling state changes, computed properties, etc. in JS
+
+- <http://webreflection.blogspot.sk/2011/02/btw-getters-setters-for-ie-6-7-and-8.html>
+- <https://www.manning.com/books/rxjs-in-action>
+- <https://facebook.github.io/immutable-js/>, <https://www.sitepoint.com/immutability-javascript/>
+
+- <https://github.com/jfairbank/revalidate/blob/master/README.md>
+Books:
+ - <https://www.manning.com/books/grokking-reactive-user-interfaces>
 
 # Static Web Sites (Generators)
 
@@ -301,10 +339,19 @@ we may start here:
 
 - <http://www.tivix.com/blog/nwjs-and-electronjs-web-technology-desktop/>
 
+# Modules Comparison (JS, node)
+
+- <https://npmcompare.com>
+
 # Online Assesments
 
 - <https://realskill.io/tests/1087>
 
+# ORM 
+
+- <https://typeorm.github.io/>  Object Relational Mapper (ORM) for node.js 
+
 # Others
 
 - <http://www.grpc.io/>
+- <https://github.com/yyx990803/pod>
