@@ -1,8 +1,12 @@
 # notes
 
-My personal notes and bookmarks about various web-dev topics. Originally collected in 
-outr internal bookmarking system, but now moved and re-selected here.
-Mainly collected from older projects, all this needs a massive review.
+My personal notes and bookmarks about various web-dev topics. 
+Originally collected in our internal bookmarking system, 
+but now moved and re-organzied here.
+
+Mainly collected from older projects, all this needs a massive review,
+but may save you some time googling....however many may be outdated.
+
 
 see also list of others:
 
@@ -222,6 +226,8 @@ TODO: cleanup this section
 
 ## SAML , OAuth, Open Connect, JWT
 
+- Spring Team evaluating various OAuth2 solutions and libs <https://github.com/spring-projects/spring-security/issues/3907#issuecomment-257600002>
+
 - Choosing an SSO Strategy: SAML vs OAuth2 <https://www.mutuallyhuman.com/blog/2013/05/09/choosing-an-sso-strategy-saml-vs-oauth2/>
 
 - <https://developers.google.com/oauthplayground>
@@ -229,6 +235,7 @@ TODO: cleanup this section
 
 - Github JJWT <https://github.com/jwtk/jjwt>
 - <https://www.jwtinspector.io/>
+
 
 ### OpenId Connect
 
@@ -343,8 +350,6 @@ Books:
 
 - <https://www.httrack.com>
 - <https://www.npmjs.com/package/cheerio-cli>
-- pandoc
-
 
 # Node.js 'desktop frameworks'
 
