@@ -226,6 +226,8 @@ TODO: cleanup this section
 
 ## SAML , OAuth, Open Connect, JWT
 
+- Full-Scratch Implementor of OAuth and OpenID Connect Talks About Findings <https://medium.com/@darutk/full-scratch-implementor-of-oauth-and-openid-connect-talks-about-findings-55015f36d1c3>
+
 - Spring Team evaluating various OAuth2 solutions and libs <https://github.com/spring-projects/spring-security/issues/3907#issuecomment-257600002>
 
 - Choosing an SSO Strategy: SAML vs OAuth2 <https://www.mutuallyhuman.com/blog/2013/05/09/choosing-an-sso-strategy-saml-vs-oauth2/>
