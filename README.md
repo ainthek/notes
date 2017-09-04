@@ -234,6 +234,8 @@ TODO: cleanup this section
 
 - <https://developers.google.com/oauthplayground>
 - <http://jwt.io/>
+- <https://github.com/dwyl/learn-json-web-tokens> interesting links at least
+- <http://anvil.io/>
 
 - Github JJWT <https://github.com/jwtk/jjwt>
 - <https://www.jwtinspector.io/>
