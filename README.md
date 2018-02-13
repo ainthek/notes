@@ -224,7 +224,9 @@ TODO: cleanup this section
 - <https://snyk.io/blog/publishing-malicious-packages/>
 
 
-## SAML , OAuth, Open Connect, JWT
+## SAML , OAuth, Open Connect, JWT, JWA
+
+- XML DSig vs. JSON Web Signature <https://community.apigee.com/articles/21711/dsig-part-3-xml-dsig-vs-json-web-signature.html>
 
 - Full-Scratch Implementor of OAuth and OpenID Connect Talks About Findings <https://medium.com/@darutk/full-scratch-implementor-of-oauth-and-openid-connect-talks-about-findings-55015f36d1c3>
 
