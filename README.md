@@ -229,6 +229,9 @@ TODO: cleanup this section
 
 ## SAML , OAuth, Open Connect, JWT, JWA
 
+- No Way, JOSE! Javascript Object Signing and Encryption is a Bad Standard That Everyone Should Avoid
+<https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid>
+
 - JWT, JWS and JWE for Not So Dummies! (Part I) <https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3>
 
 - XML DSig vs. JSON Web Signature <https://community.apigee.com/articles/21711/dsig-part-3-xml-dsig-vs-json-web-signature.html>
