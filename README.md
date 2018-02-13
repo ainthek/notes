@@ -227,7 +227,11 @@ TODO: cleanup this section
 
 - <https://auth0.com/blog/stateless-auth-for-stateful-minds/>
 
-## SAML , OAuth, Open Connect, JWT
+## SAML , OAuth, Open Connect, JWT, JWA
+
+- JWT, JWS and JWE for Not So Dummies! (Part I) <https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3>
+
+- XML DSig vs. JSON Web Signature <https://community.apigee.com/articles/21711/dsig-part-3-xml-dsig-vs-json-web-signature.html>
 
 
 - Full-Scratch Implementor of OAuth and OpenID Connect Talks About Findings <https://medium.com/@darutk/full-scratch-implementor-of-oauth-and-openid-connect-talks-about-findings-55015f36d1c3>
@@ -238,6 +242,8 @@ TODO: cleanup this section
 
 - <https://developers.google.com/oauthplayground>
 - <http://jwt.io/>
+- <https://github.com/dwyl/learn-json-web-tokens> interesting links at least
+- <http://anvil.io/>
 
 - Github JJWT <https://github.com/jwtk/jjwt>
 - <https://www.jwtinspector.io/>
