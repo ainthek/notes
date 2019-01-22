@@ -75,6 +75,10 @@ my video list on YouTube:
 - Swagger, OAI <http://swagger.io/>
 - RAML <http://raml.org/>
 
+## GraphQL
+
+- <https://webapplog.com/graphql/>
+
 # Web Components, Widgets, Mashups
 
 - <http://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/>
