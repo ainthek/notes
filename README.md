@@ -249,6 +249,8 @@ Linked data Signatures
 
 ## SAML , OAuth, Open Connect, JWT, JWA
 
+- Dancing with OAuth: Understanding how Authorization Works <https://medium.com/@imashishmathur/0auth-a142656859c6>
+
 - No Way, JOSE! Javascript Object Signing and Encryption is a Bad Standard That Everyone Should Avoid
 <https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid>
 
@@ -402,6 +404,10 @@ we may start here:
 # ORM 
 
 - <https://typeorm.github.io/>  Object Relational Mapper (ORM) for node.js 
+
+# ESB
+
+- Understanding integration from a "needs-based" perspective - Mule vs. Servicemix / Fuse ESB <https://www.mulesoft.com/resources/esb/understanding-integration-needs-based-perspective-mule-vs-servicemix-fuse-esb>
 
 # Others
 
