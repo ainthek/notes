@@ -57,6 +57,7 @@ my video list on YouTube:
 
 ## Microservices
 
+- The Microservices Workflow Automation Cheat Sheet <https://blog.bernd-ruecker.com/the-microservice-workflow-automation-cheat-sheet-fc0a80dc25aa>
 - <http://microservices.io/>
 - Patterns <http://microservices.io/patterns/index.html>
 - Introduction by NGINX <https://www.nginx.com/blog/introduction-to-microservices/>
