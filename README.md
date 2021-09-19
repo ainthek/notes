@@ -1,4 +1,4 @@
-# notes
+# notes 
 
 My personal notes and bookmarks about various web-dev topics. 
 Originally collected in our internal bookmarking system, 
